@@ -3,7 +3,6 @@ import PlaygroundSupport
 
 PlaygroundPage.current.needsIndefiniteExecution = true
 
-
 class Alarm {
     var timer: Timer = Timer()
     var count: Int = 75
